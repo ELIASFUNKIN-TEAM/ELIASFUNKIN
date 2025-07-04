@@ -1,0 +1,27 @@
+{
+	"storyName": "what the",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"CCARROT",
+			"icon-kyarot",
+			[
+				247,
+				156,
+				98
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ccarrot week"
+}

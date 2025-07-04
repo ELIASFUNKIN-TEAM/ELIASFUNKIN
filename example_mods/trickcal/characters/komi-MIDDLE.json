@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [570, 279],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "komi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [574, 282],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "komi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [572, 281],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "komi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [596, 281],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "komi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [576, 280],
+			"anim": "idle",
+			"fps": 24,
+			"name": "komi idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/komi",
+	"position": [290, 280],
+	"healthicon": "komi",
+	"flip_x": false,
+	"healthbar_colors": [255, 190, 191],
+	"camera_position": [-240, 120],
+	"sing_duration": 6.1,
+	"scale": 0.68,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [446, 113],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ME Up"
+		},
+		{
+			"offsets": [440, 147],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ME Down"
+		},
+		{
+			"loop": false,
+			"offsets": [449, 137],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ME Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [451, 134],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ME Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [441, 132],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ME Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ME",
+	"position": [0, 0],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-40, 120],
+	"sing_duration": 6.1,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

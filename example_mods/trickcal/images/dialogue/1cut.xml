@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="1cut.png">
+<SubTexture name="1cut 10000" x="0" y="0" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 30000" x="1296" y="0" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 40000" x="1296" y="648" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 50000" x="0" y="1296" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 60000" x="1296" y="1296" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 70000" x="1296" y="648" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 80000" x="0" y="1944" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+<SubTexture name="1cut 20000" x="0" y="648" width="1296" height="648" frameX="0" frameY="0" frameWidth="1296" frameHeight="648" />
+</TextureAtlas>

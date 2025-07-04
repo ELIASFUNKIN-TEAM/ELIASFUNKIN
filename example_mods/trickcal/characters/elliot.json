@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				-54
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "elliot left miss"
+		},
+		{
+			"offsets": [
+				387,
+				-52
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "elliot down miss"
+		},
+		{
+			"offsets": [
+				373,
+				-59
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "elliot right miss"
+		},
+		{
+			"offsets": [
+				376,
+				-56
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "elliot up miss"
+		},
+		{
+			"offsets": [
+				381,
+				-52
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				402,
+				-117
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "scared",
+			"indices": [],
+			"name": "scared"
+		},
+		{
+			"offsets": [
+				401,
+				-49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge"
+		},
+		{
+			"offsets": [
+				381,
+				-55
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				387,
+				-53
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				375,
+				-48
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				358,
+				-56
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				363,
+				-52
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/elliot",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "elliot",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		460,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

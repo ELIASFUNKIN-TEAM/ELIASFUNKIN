@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"mayo",
+			"mayo",
+			[
+				0,
+				139,
+				207
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "thnaks you byunsu",
+	"weekName": "mayo",
+	"hideStoryMode": true,
+	"weekBefore": "ccarrot",
+	"startUnlocked": true
+}

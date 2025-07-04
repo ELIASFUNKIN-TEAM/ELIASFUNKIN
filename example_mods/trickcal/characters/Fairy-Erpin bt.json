@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-35, 8],
+			"anim": "idle",
+			"fps": 24,
+			"name": "erpin idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [33, 5],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "erpin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-78, 2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "erpin down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-38, 8],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "erpin up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-26, 1],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "erpin right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-44, 0],
+			"anim": "erpin eating",
+			"fps": 50,
+			"name": "erpin eating",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-36, 6],
+			"anim": "erpin ryd eat",
+			"fps": 15,
+			"name": "erpin ryd eat",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-35, 6],
+			"anim": "erpin bread",
+			"fps": 25,
+			"name": "erpin bread",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/erpin-new",
+	"position": [-170, -130],
+	"healthicon": "erpin",
+	"flip_x": true,
+	"healthbar_colors": [255, 239, 187],
+	"camera_position": [-70, 40],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

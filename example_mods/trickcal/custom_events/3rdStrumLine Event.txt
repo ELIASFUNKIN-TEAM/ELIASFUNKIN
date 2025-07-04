@@ -1,0 +1,1 @@
+make appear 3rd strumline

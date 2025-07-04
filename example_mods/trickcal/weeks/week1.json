@@ -1,0 +1,27 @@
+{
+	"storyName": "welcome to ellias!",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"revive",
+			"icon-erpin",
+			[
+				255,
+				239,
+				187
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "week erpin",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="erpin.png">
+<SubTexture name="erpin idle0000" x="673" y="688" width="678" height="680" frameX="-160" frameY="-200" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0001" x="673" y="688" width="678" height="680" frameX="-160" frameY="-200" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0002" x="0" y="688" width="673" height="683" frameX="-164" frameY="-197" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0003" x="0" y="688" width="673" height="683" frameX="-164" frameY="-197" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0004" x="1329" y="0" width="665" height="686" frameX="-170" frameY="-194" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0005" x="1329" y="0" width="665" height="686" frameX="-170" frameY="-194" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0006" x="0" y="0" width="665" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0007" x="0" y="0" width="665" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0008" x="665" y="0" width="664" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0009" x="665" y="0" width="664" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0010" x="665" y="0" width="664" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0011" x="665" y="0" width="664" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin idle0012" x="665" y="0" width="664" height="688" frameX="-170" frameY="-193" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0000" x="756" y="2650" width="771" height="605" frameX="-72" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0001" x="756" y="2650" width="771" height="605" frameX="-72" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0002" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0003" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0004" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0005" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0006" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0007" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0008" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0009" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0010" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0011" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0012" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0013" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin left0014" x="1527" y="2650" width="764" height="605" frameX="-75" frameY="-275" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0000" x="1994" y="654" width="619" height="651" frameX="-78" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0001" x="1994" y="654" width="619" height="651" frameX="-78" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0002" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0003" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0004" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0005" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0006" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0007" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0008" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0009" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0010" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0011" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0012" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0013" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin right0014" x="1351" y="688" width="624" height="651" frameX="-77" frameY="-247" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0000" x="762" y="1371" width="646" height="644" frameX="-160" frameY="-242" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0001" x="762" y="1371" width="646" height="644" frameX="-160" frameY="-242" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0002" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0003" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0004" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0005" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0006" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0007" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0008" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0009" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0010" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0011" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0012" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0013" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin down0014" x="1408" y="1371" width="655" height="639" frameX="-151" frameY="-243" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0000" x="0" y="1371" width="762" height="648" frameX="-127" frameY="-234" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0001" x="0" y="1371" width="762" height="648" frameX="-127" frameY="-234" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0002" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0003" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0004" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0005" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0006" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0007" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0008" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0009" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0010" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0011" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0012" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0013" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin up0014" x="1994" y="0" width="754" height="654" frameX="-132" frameY="-227" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0000" x="2063" y="1371" width="470" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0001" x="2063" y="1371" width="470" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0002" x="2267" y="2019" width="473" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0003" x="2267" y="2019" width="473" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0004" x="2291" y="2650" width="485" height="538" frameX="-339" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0005" x="2776" y="2650" width="487" height="538" frameX="-339" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0006" x="2776" y="2650" width="487" height="538" frameX="-339" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0007" x="3500" y="0" width="487" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0008" x="3500" y="0" width="487" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0009" x="3500" y="538" width="478" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0010" x="3500" y="1076" width="475" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0011" x="3500" y="1076" width="475" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0012" x="3500" y="1614" width="478" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0013" x="3500" y="1614" width="478" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0014" x="3500" y="2152" width="482" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0015" x="3500" y="2690" width="484" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0016" x="3500" y="2690" width="484" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0017" x="2291" y="2650" width="485" height="538" frameX="-339" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0018" x="2291" y="2650" width="485" height="538" frameX="-339" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0019" x="0" y="3261" width="476" height="538" frameX="-339" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0020" x="476" y="3261" width="475" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0021" x="476" y="3261" width="475" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0022" x="3500" y="538" width="478" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0023" x="3500" y="538" width="478" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0024" x="951" y="3261" width="487" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0025" x="1438" y="3261" width="489" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0026" x="1438" y="3261" width="489" height="538" frameX="-337" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0027" x="3500" y="2152" width="482" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0028" x="3500" y="2152" width="482" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin eating0029" x="2267" y="2019" width="473" height="538" frameX="-342" frameY="-336" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0000" x="0" y="2019" width="755" height="631" frameX="-80" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0001" x="0" y="2019" width="755" height="631" frameX="-80" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0002" x="0" y="2019" width="755" height="631" frameX="-80" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0003" x="0" y="2019" width="755" height="631" frameX="-80" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0004" x="755" y="2019" width="759" height="631" frameX="-80" frameY="-248" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0005" x="1514" y="2019" width="753" height="625" frameX="-82" frameY="-254" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0006" x="1514" y="2019" width="753" height="625" frameX="-82" frameY="-254" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0007" x="1514" y="2019" width="753" height="625" frameX="-82" frameY="-254" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin bread0008" x="1514" y="2019" width="753" height="625" frameX="-82" frameY="-254" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0000" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0001" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0002" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0003" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0004" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0005" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0006" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0007" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0008" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0009" x="2748" y="0" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0010" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0011" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0012" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0013" x="2748" y="617" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0014" x="0" y="2650" width="756" height="611" frameX="-83" frameY="-267" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0015" x="0" y="2650" width="756" height="611" frameX="-83" frameY="-267" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0016" x="0" y="2650" width="756" height="611" frameX="-83" frameY="-267" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0017" x="2748" y="1234" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0018" x="2748" y="1234" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0019" x="2748" y="1234" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0020" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0021" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0022" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0023" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0024" x="2748" y="1234" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0025" x="2748" y="1234" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0026" x="2748" y="1234" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0027" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0028" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0029" x="2748" y="1851" width="752" height="617" frameX="-83" frameY="-262" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0030" x="0" y="2650" width="756" height="611" frameX="-83" frameY="-267" frameWidth="1000" frameHeight="968" />
+<SubTexture name="erpin ryd eat0031" x="0" y="2650" width="756" height="611" frameX="-83" frameY="-267" frameWidth="1000" frameHeight="968" />
+</TextureAtlas>

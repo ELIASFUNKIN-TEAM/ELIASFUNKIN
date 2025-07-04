@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"DETESTABLE",
+			"twins",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "great union with feed",
+	"weekName": "saryo ro deadongdangyel",
+	"hideStoryMode": false,
+	"weekBefore": "revive",
+	"startUnlocked": true
+}

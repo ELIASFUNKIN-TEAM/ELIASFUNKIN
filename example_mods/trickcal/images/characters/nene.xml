@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nenegf.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nene Down instance 10000" x="0" y="0" width="812" height="663" frameX="-2" frameY="-8" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10001" x="812" y="0" width="814" height="672"/>
+	<SubTexture name="Nene Down instance 10002" x="812" y="0" width="814" height="672"/>
+	<SubTexture name="Nene Down instance 10003" x="1626" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10004" x="2438" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10005" x="3250" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10006" x="4062" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10007" x="4874" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10008" x="5686" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10009" x="6498" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10010" x="7310" y="0" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Down instance 10011" x="0" y="672" width="812" height="671" frameX="-2" frameY="0" frameWidth="814" frameHeight="672"/>
+	<SubTexture name="Nene Full instance 10000" x="812" y="672" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10001" x="1625" y="672" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10002" x="2438" y="672" width="813" height="670" frameX="-2" frameY="0" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10003" x="2438" y="672" width="813" height="670" frameX="-2" frameY="0" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10004" x="3251" y="672" width="813" height="670" frameX="-2" frameY="0" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10005" x="4064" y="672" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10006" x="4877" y="672" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10007" x="5690" y="672" width="813" height="652" frameX="-2" frameY="-18" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10008" x="6503" y="672" width="813" height="652" frameX="-2" frameY="-18" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10009" x="7316" y="672" width="815" height="652" frameX="0" frameY="-19" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10010" x="0" y="1343" width="815" height="652" frameX="0" frameY="-19" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10011" x="815" y="1343" width="813" height="653" frameX="-2" frameY="-17" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10012" x="1628" y="1343" width="813" height="653" frameX="-2" frameY="-17" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10013" x="2441" y="1343" width="813" height="655" frameX="-2" frameY="-15" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10014" x="3254" y="1343" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10015" x="4067" y="1343" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10016" x="4880" y="1343" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10017" x="5693" y="1343" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10018" x="6506" y="1343" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10019" x="7319" y="1343" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10020" x="0" y="2012" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10021" x="813" y="2012" width="813" height="669" frameX="-2" frameY="-1" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10022" x="1626" y="2012" width="813" height="662" frameX="-2" frameY="-8" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10023" x="2439" y="2012" width="815" height="663" frameX="0" frameY="-8" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10024" x="3254" y="2012" width="815" height="664" frameX="0" frameY="-7" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Full instance 10025" x="4069" y="2012" width="813" height="663" frameX="-2" frameY="-7" frameWidth="815" frameHeight="671"/>
+	<SubTexture name="Nene Left instance 10000" x="4882" y="2012" width="812" height="665" frameX="-3" frameY="-4" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10001" x="5694" y="2012" width="815" height="669"/>
+	<SubTexture name="Nene Left instance 10002" x="5694" y="2012" width="815" height="669"/>
+	<SubTexture name="Nene Left instance 10003" x="6509" y="2012" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10004" x="7321" y="2012" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10005" x="0" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10006" x="812" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10007" x="1624" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10008" x="2436" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10009" x="3248" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10010" x="4060" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Left instance 10011" x="4872" y="2681" width="812" height="669" frameX="-3" frameY="0" frameWidth="815" frameHeight="669"/>
+	<SubTexture name="Nene Right instance 10000" x="5684" y="2681" width="813" height="646" frameX="-3" frameY="-7" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10001" x="6497" y="2681" width="816" height="653"/>
+	<SubTexture name="Nene Right instance 10002" x="6497" y="2681" width="816" height="653"/>
+	<SubTexture name="Nene Right instance 10003" x="7313" y="2681" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10004" x="0" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10005" x="813" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10006" x="1626" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10007" x="2439" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10008" x="3252" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10009" x="4065" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10010" x="4878" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Right instance 10011" x="5691" y="3350" width="813" height="653" frameX="-3" frameY="0" frameWidth="816" frameHeight="653"/>
+	<SubTexture name="Nene Up instance 10000" x="6504" y="3350" width="813" height="695" frameX="-3" frameY="0" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10001" x="7317" y="3350" width="816" height="670" frameX="0" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10002" x="7317" y="3350" width="816" height="670" frameX="0" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10003" x="0" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10004" x="813" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10005" x="1626" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10006" x="2439" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10007" x="3252" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10008" x="4065" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10009" x="4878" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10010" x="5691" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+	<SubTexture name="Nene Up instance 10011" x="6504" y="4045" width="813" height="669" frameX="-3" frameY="-26" frameWidth="816" frameHeight="696"/>
+</TextureAtlas>

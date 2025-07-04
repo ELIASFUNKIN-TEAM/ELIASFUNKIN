@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [45, -5],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-re idle"
+		},
+		{
+			"loop": false,
+			"offsets": [34, -7],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf-re left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [47, -11],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf-re up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [54, -2],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf-re right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [40, -10],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf-re down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bf-re",
+	"position": [-610, 40],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [123, 214, 235],
+	"camera_position": [-60, 100],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

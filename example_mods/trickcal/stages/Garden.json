@@ -1,0 +1,97 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "Kyarot",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		865,
+		245
+	],
+	"stageUI": "",
+	"girlfriend": [
+		365,
+		245
+	],
+	"objects": [
+		{
+			"x": -622,
+			"y": -441,
+			"scale": [
+				0.95,
+				0.95
+			],
+			"image": "garden",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Garden",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": -197,
+			"y": 713,
+			"scale": [
+				0.5,
+				0.5
+			],
+			"image": "fuckHowDoTHIS",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.8,
+	"opponent": [
+		105,
+		260
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

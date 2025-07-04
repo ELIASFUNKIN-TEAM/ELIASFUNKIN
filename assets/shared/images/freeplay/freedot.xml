@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freedot.png">
+<SubTexture name="freedot idle0000" x="3150" y="2541" width="3150" height="837" frameX="-211" frameY="-1031" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0001" x="3150" y="2541" width="3150" height="837" frameX="-211" frameY="-1031" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0002" x="0" y="0" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0003" x="0" y="0" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0004" x="0" y="847" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0005" x="0" y="847" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0006" x="0" y="1694" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0007" x="0" y="1694" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0008" x="3150" y="0" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0009" x="3150" y="0" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0010" x="3150" y="847" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0011" x="3150" y="847" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0012" x="3150" y="1694" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0013" x="3150" y="1694" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0014" x="0" y="2541" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0015" x="0" y="2541" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0016" x="0" y="2541" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+<SubTexture name="freedot idle0017" x="0" y="2541" width="3150" height="847" frameX="-211" frameY="-1021" frameWidth="3486" frameHeight="2065" />
+</TextureAtlas>

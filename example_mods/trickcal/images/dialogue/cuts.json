@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		200,
+		-60
+	],
+	"scale": 1.8,
+	"animations": [
+		{
+			"loop_name": "1cut 1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 1",
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 2",
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 3",
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 4",
+			"anim": "4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 5",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 5",
+			"anim": "5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 6",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 6",
+			"anim": "6",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 7",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 7",
+			"anim": "7",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "1cut 8",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "1cut 8",
+			"anim": "8",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "1cut"
+}

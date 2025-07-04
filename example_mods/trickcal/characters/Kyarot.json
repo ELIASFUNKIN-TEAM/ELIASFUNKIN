@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [122, -5],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [138, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [133, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [133, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [133, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/kyarot",
+	"position": [-70, -20],
+	"healthicon": "kyarot",
+	"flip_x": false,
+	"healthbar_colors": [247, 156, 98],
+	"camera_position": [-80, 160],
+	"sing_duration": 4,
+	"scale": 0.95,
+	"_editor_isPlayer": false
+}

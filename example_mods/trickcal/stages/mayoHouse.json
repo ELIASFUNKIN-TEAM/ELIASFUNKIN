@@ -1,0 +1,118 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf_mayo",
+		"dad": "mayo",
+		"gf": "gf"
+	},
+	"preload": {
+		"images/stage/stageB": 7,
+		"images/stage/aa1": 7,
+		"images/stage/stageA": 7
+	},
+	"stageUI": " ",
+	"boyfriend": [
+		865,
+		290
+	],
+	"girlfriend": [
+		370,
+		250
+	],
+	"defaultZoom": 1,
+	"objects": [
+		{
+			"x": -1012,
+			"y": -518,
+			"scale": [
+				0.85,
+				0.85
+			],
+			"image": "stage/mayoHouse/stageA",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stageA",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1012,
+			"y": -518,
+			"scale": [
+				0.85,
+				0.85
+			],
+			"image": "stage/mayoHouse/stageB",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stageB",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -405,
+			"y": -324,
+			"scale": [
+				1,
+				1.1
+			],
+			"image": "stage/mayoHouse/aa1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "light",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.5,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		285,
+		325
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

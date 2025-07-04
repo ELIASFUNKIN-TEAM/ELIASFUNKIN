@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ME.png">
+<SubTexture name="ME Idle0000" x="2271" y="0" width="755" height="1167" frameX="-332" frameY="-57" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Idle0001" x="0" y="1179" width="757" height="1167" frameX="-332" frameY="-57" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Idle0002" x="757" y="1179" width="757" height="1159" frameX="-332" frameY="-63" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Down0000" x="760" y="0" width="726" height="1175" frameX="-338" frameY="-57" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Down0001" x="760" y="0" width="726" height="1175" frameX="-338" frameY="-57" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Down0002" x="3026" y="0" width="753" height="1148" frameX="-339" frameY="-102" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Left0000" x="0" y="2346" width="812" height="1146" frameX="-203" frameY="-76" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Left0001" x="0" y="2346" width="812" height="1146" frameX="-203" frameY="-76" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Left0002" x="1514" y="1179" width="816" height="1154" frameX="-190" frameY="-69" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Right0000" x="0" y="0" width="760" height="1179" frameX="-368" frameY="-46" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Right0001" x="0" y="0" width="760" height="1179" frameX="-368" frameY="-46" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Right0002" x="1486" y="0" width="785" height="1175" frameX="-385" frameY="-50" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Up0000" x="1632" y="2346" width="892" height="1022" frameX="-341" frameY="-83" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Up0001" x="1632" y="2346" width="892" height="1022" frameX="-341" frameY="-83" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="ME Up0002" x="812" y="2346" width="820" height="1083" frameX="-359" frameY="-23" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

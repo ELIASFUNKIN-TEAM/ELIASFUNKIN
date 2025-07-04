@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-200,
+		-500
+	],
+	"scale": 0.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"idle_offsets": [
+				1,
+				-12
+			],
+			"loop_name": "erpin port idle",
+			"idle_name": "erpin port idle"
+		},
+		{
+			"loop_name": "erpin port dang",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "erpin port dang",
+			"anim": "dangdang",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "erpin port solgit",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "erpin port solgit",
+			"anim": "gomin",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "erpin port"
+}

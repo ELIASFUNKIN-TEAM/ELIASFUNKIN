@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "1",
+			"text": "",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "2",
+			"text": "BF, GF is walk with a puppy.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "3",
+			"text": "",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "7",
+			"text": "oops..?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "5",
+			"text": "",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "6",
+			"text": "",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "7",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "8",
+			"text": "Yo, That was cool, Right?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "8",
+			"text": "Yeah, I think so too lol",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "cuts"
+		},
+		{
+			"expression": "talk",
+			"text": "???",
+			"boxState": "normal",
+			"sound": "erpin",
+			"speed": 0.05,
+			"portrait": "erpinport"
+		},
+		{
+			"expression": "confused",
+			"text": "hm...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Rap?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "gomin",
+			"text": "Uhm... Okay?",
+			"boxState": "normal",
+			"sound": "erpin",
+			"speed": 0.05,
+			"portrait": "erpinport"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay that was easy.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}
