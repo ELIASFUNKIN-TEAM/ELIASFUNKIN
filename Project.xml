@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="ELLIASFUNKIN" file="ELLIASFUNKIN" packageName="com.elliasfunkin.mincha" package="com.elliasfunkin.mincha" main="Main" version="DEMO" company="ELLIASFUNKIN-TEAM" /> <!-- com.(our game name).(our director) -->
+	<app title="ELIASFUNKIN" file="ELIASFUNKIN" packageName="com.eliasfunkin.mincha" package="com.eliasfunkin.mincha" main="Main" version="DEMO" company="ELIASFUNKIN-TEAM" /> <!-- com.(our game name).(our director) -->
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
